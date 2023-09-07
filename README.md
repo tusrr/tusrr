@@ -1,6 +1,7 @@
 ![MasterHead](https://user-images.githubusercontent.com/63905637/145709095-4f7e73cb-e52e-44fa-99a5-58a96ac4ff0c.gif)]
 <h1 align="center">Hi 👋, I'm Tushar</h1>
-<h3 align="center">An Enthusiastic & Emerging Programmer :) Interested in Fut Hobbies : Coding, Writing Quotes and poetries, Reading Novels!</h3>
+<h3 align="center">An Enthusiastic & Emerging Programmer :) <Interested in Future Technologies>
+  Hobbies : Coding, Writing Quotes and poetries, Reading Novels!</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/Ug6cbVA1ZsMAAAAd/developer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tusrr&label=Profile%20views&color=0e75b6&style=flat" alt="tusrr" /> </p>
