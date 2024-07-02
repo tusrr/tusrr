@@ -1,16 +1,17 @@
 ![MasterHead](https://user-images.githubusercontent.com/63905637/145709095-4f7e73cb-e52e-44fa-99a5-58a96ac4ff0c.gif)]
 <h1 align="center">Hi 👋, I'm Tushar</h1>
-<h3 align="center">An Enthusiastic & Emerging Programmer :) <Interested in Future Technologies>
-  Hobbies : Coding, Writing Quotes and poetries, Reading Novels!</h3>
+<h3 align="center">An Enthusiastic Programmer who loves to learn things and create something that makes an impact :) </>
+  Passion : Coding, Writing Quotes and poetries, Reading Novels !</h3>
+  Table Tennis is Love <3
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/Ug6cbVA1ZsMAAAAd/developer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tusrr&label=Profile%20views&color=0e75b6&style=flat" alt="tusrr" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **Front-end & React Projects**
+- 🔭 I’m currently working on **Full-Stack Projects**
 
-- 🌱 I’m currently learning **React.js**
+- 🌱 I’m currently learning **DSA**
 
 - 👨‍💻 All of my projects are available at [https://portfolio-tusrr.vercel.app/](https://portfolio-tusrr.vercel.app/)
 
