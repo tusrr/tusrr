@@ -19,7 +19,7 @@
 
 - 📫 How to reach me **tushar.raj2000@gmail.com**
 
-- ⚡ Fun fact **What could be funnier than me saying I'm pursuing engineering? :D**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
